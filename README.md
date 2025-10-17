@@ -9,7 +9,7 @@
 
 </div>
 
-[play now](https://gyuriling.github.io/EatKano/)<<< | 내 최고기록은 206 😗
+[play now](https://gyuriling.github.io/EatKano/) < | 내 최고기록은 206 😗
 
 누군가가 만든 완다호이에무 카노게임 보고 따라만든 카나데 게임 ! !  
 이 프로젝트는 [arcxingye/EatKano](https://github.com/arcxingye/EatKano). 의 **customized fork** 버전입니다 🤤
