@@ -5,9 +5,7 @@
 
 
 
-# 🤍 EatKano 🤍
-
-[Play Now](https://gyuriling.github.io/EatKano/)
+# 🤍 [EatKano](https://gyuriling.github.io/EatKano/) 🤍
 
 </div>
 
