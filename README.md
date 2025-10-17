@@ -3,6 +3,31 @@
 </p>
 <div align="center">
 
+# EatKano (Gyuriling Edition)
+
+[Play Now](https://gyuriling.github.io/EatKano/)
+
+This project is a **customized fork** of [arcxingye/EatKano](https://github.com/arcxingye/EatKano).  
+It has been rebuilt for full compatibility with **GitHub Pages** and includes fixes for CDN paths, encoding, and i18n support.
+
+---
+
+## ✨ Features
+- Fixed CDN resources (ByteCDN → jsDelivr)
+- Corrected broken `<link>` tag and removed extra `</div>`
+- Added proper i18n script loading (before `index.js`)
+- Works perfectly on **GitHub Pages** (no PHP or MySQL required)
+- Korean and English text supported
+
+---
+
+## 🕹 How to Run
+1. **Fork or Clone** this repository:
+   ```bash
+   git clone https://github.com/gyuriling/EatKano.git
+
+   
+
 # EatKano
 
 _🦌 网页小游戏 🥛_
