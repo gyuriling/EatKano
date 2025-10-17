@@ -3,9 +3,13 @@
 </p>
 <div align="center">
 
-# EatKano (Gyuriling Edition)
+
+
+# EatKano
 
 [Play Now](https://gyuriling.github.io/EatKano/)
+
+</div>
 
 This project is a **customized fork** of [arcxingye/EatKano](https://github.com/arcxingye/EatKano).  
 It has been rebuilt for full compatibility with **GitHub Pages** and includes fixes for CDN paths, encoding, and i18n support.
@@ -32,7 +36,7 @@ It has been rebuilt for full compatibility with **GitHub Pages** and includes fi
 
 _🦌 网页小游戏 🥛_
 
-</div>
+
 
 
 ## 简介
