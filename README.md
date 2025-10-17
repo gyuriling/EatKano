@@ -15,7 +15,7 @@
 이 프로젝트는 [arcxingye/EatKano](https://github.com/arcxingye/EatKano). 의 **customized fork** 버전입니다 🤤
 
 
-랭킹은 복잡해서 구현 안할거예요. 사실 못하는거임 ㅎㅎㅎㅎ
+원본 프로젝트에는 랭킹도 있던데 이거는 복잡해서 구현 안할거예요. 사실 못하는거임 ㅎㅎㅎㅎ
 
 
 
